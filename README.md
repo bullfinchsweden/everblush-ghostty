@@ -1,6 +1,8 @@
 # Everblush Ghostty
 My own custom made Everblush color scheme for Ghostty.
 
+<img width="104" height="104" alt="Butterfly" src="https://github.com/user-attachments/assets/ae1f88bb-107a-47ff-a058-492ce5ddb2e0" /><br/>
+
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Everblush color scheme](https://everblush.github.io/)<br/>
