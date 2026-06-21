@@ -11,6 +11,6 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Everblush II*
 
-<img width="260" height="83" alt="EverblushColors1" src="https://github.com/user-attachments/assets/98631bd7-5302-4608-b78a-f8c7abf44747" /><br/>
+<img src="Images/EverblushColors1.png"><br/>
 
-<img width="785" height="398" alt="EverblushColors2" src="https://github.com/user-attachments/assets/2ab6fd84-cfe9-4b85-97c8-ef23902172b6" />
+<img src="Images/EverblushColors2.png">
