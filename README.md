@@ -5,7 +5,7 @@ My own custom made Everblush color scheme for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Everblush color scheme](https://everblush.github.io/)<br/>
+* [Everblush](https://everblush.github.io/)<br/>
 
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
