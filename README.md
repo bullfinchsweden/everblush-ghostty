@@ -1,7 +1,7 @@
 # Everblush Ghostty
 My own custom made Everblush color scheme for Ghostty.
 
-<img src="Images/Butterfly.png"><br/>
+<img src="Images/Ghostty.jpg"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
