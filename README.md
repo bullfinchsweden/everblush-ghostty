@@ -7,6 +7,8 @@ My own custom made Everblush color scheme for Ghostty.
 
 * [Everblush](https://everblush.github.io/)<br/>
 
+<img src="Images/Everblush.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Everblush II*
