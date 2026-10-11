@@ -1,4 +1,4 @@
-# Everblush Ghostty
+# Everblush | Ghostty
 My own custom made Everblush color scheme for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
